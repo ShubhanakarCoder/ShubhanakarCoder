@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **portfolio with the help of languages HTML, CSS, REACT**
 
-- 💬 Ask me about **react,CSS**
+- 💬 Ask me about **React,CSS**
 
 - 📫 How to reach me **saurabhshubhankar@gmail.com**
 
