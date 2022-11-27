@@ -1,6 +1,6 @@
+![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg)
 <h1 align="center">Hi 👋, I'm Shubhankar Saurabh.</h1>
 <h3 align="center">A passionate frontend developer currently learing</h3>
-<img src="https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg" alt="banner"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhanakarcoder&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanakarcoder" /> </p>
