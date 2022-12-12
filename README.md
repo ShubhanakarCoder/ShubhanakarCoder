@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer currently learing MERN</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhanakarcoder&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanakarcoder" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3604186-Developer&psig=AOvVaw3bAD8pK0dPgv65ZJDHt7B0&ust=1670941482910000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCpzqKk9PsCFQAAAAAdAAAAABAJ" alt="shubhanakarcoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhanakarcoder" alt="shubhanakarcoder" /></a> </p>
 
