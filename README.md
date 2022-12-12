@@ -1,9 +1,9 @@
-![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3604186-Developer&psig=AOvVaw3bAD8pK0dPgv65ZJDHt7B0&ust=1670941482910000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCpzqKk9PsCFQAAAAAdAAAAABAJ)
 <h1 align="center">Hi 👋, I'm Shubhankar Saurabh.</h1>
 <h3 align="center">A passionate frontend developer currently learing MERN</h3>
 
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3604186-Developer&psig=AOvVaw3bAD8pK0dPgv65ZJDHt7B0&ust=1670941482910000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCpzqKk9PsCFQAAAAAdAAAAABAJ" alt="shubhanakarcoder" /> </p>
+<p align="left"> <img src="" alt="shubhanakarcoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhanakarcoder" alt="shubhanakarcoder" /></a> </p>
 
